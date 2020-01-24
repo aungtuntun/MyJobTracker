@@ -1,10 +1,10 @@
 # MyJobTracker
 
 Sample of Google Map Place tracker.
-1. Sign In (Welcome page) 
+<div>1. Sign In (Welcome page) 
 
 <img align="left" src="https://github.com/aungtuntun/MyJobTracker/blob/master/screenshots/1.signIn.png" /></a>
-
+</div>
 2. Select a Google account
 
 <img align="left" src="https://github.com/aungtuntun/MyJobTracker/blob/master/screenshots/2.choose%20account.png"  /></a>
