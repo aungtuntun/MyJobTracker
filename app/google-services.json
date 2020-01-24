@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "772370661266",
+    "firebase_url": "https://myjobtracker-1579462743573.firebaseio.com",
+    "project_id": "myjobtracker-1579462743573",
+    "storage_bucket": "myjobtracker-1579462743573.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:772370661266:android:cbacb0fbe2021f5f0e8b4b",
+        "android_client_info": {
+          "package_name": "com.imceits.android.myjobtracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "772370661266-taqu0gglv6t7d8orav1abtnrtkftmov2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.imceits.android.myjobtracker",
+            "certificate_hash": "7d83da63356789a63a2f7c5d214ad6a21c089d19"
+          }
+        },
+        {
+          "client_id": "772370661266-9u66gc26dnmc2fnufv7cgc637stv5aul.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApMWol8UD3zgIiRS5IEZ08mRrhZsFDoHY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "772370661266-9u66gc26dnmc2fnufv7cgc637stv5aul.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
