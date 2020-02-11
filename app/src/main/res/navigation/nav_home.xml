@@ -3,7 +3,7 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/nav_home"
-    app:startDestination="@id/signin">
+    app:startDestination="@id/jobs">
 
     <fragment
         android:id="@+id/signin"
@@ -32,7 +32,7 @@
             android:id="@+id/action_jobs_to_signin"
             app:destination="@id/signin"
             app:launchSingleTop="true"
-            app:popUpTo="@+id/nav_home"
+            app:popUpTo="@+id/signin"
             app:popUpToInclusive="true" />
     </fragment>
     <fragment

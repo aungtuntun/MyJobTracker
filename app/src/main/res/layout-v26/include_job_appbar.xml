@@ -28,6 +28,7 @@
                 android:layout_gravity="start|center_vertical"
                 android:contentDescription="@string/signed_in_account"
                 android:padding="@dimen/appbar_icon_padding"
+                android:src="@drawable/ic_account_circle"
                 app:img_uri="@{viewModel.currentUserPhotoUri}"
                 app:srcCompat="@drawable/ic_account_circle" />
 

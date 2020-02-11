@@ -26,6 +26,7 @@
                 android:layout_height="@dimen/appbar_icon_height"
                 android:layout_gravity="start|center_vertical"
                 android:contentDescription="@string/signed_in_account"
+                android:src="@drawable/ic_account_circle"
                 android:padding="@dimen/appbar_icon_padding"
                 app:img_uri="@{viewModel.currentUserPhotoUri}"
                 app:srcCompat="@drawable/ic_account_circle" />
