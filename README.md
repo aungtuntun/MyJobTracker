@@ -18,10 +18,9 @@ Sample of Google Map Place tracker.
 </td>
 <td>
 <div>
-3. Available Job List
+ 3. Available Job List
  <img align="left" src="https://github.com/aungtuntun/MyJobTracker/blob/master/screenshots/3.job%20list.png" /></a>
 </div>
-
  </td>
  </tr>
  
