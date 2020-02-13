@@ -62,7 +62,7 @@ Sample of Google Map Place tracker.
  
  <td>
 <div>
-8. Search unavailable
+8. Search unavailable without Billing account in Google Maps Platform
 <img align="left" src="https://github.com/aungtuntun/MyJobTracker/blob/master/screenshots/8.search%20unavailable.png" /></a>
 </div>
 
