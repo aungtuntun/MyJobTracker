@@ -13,9 +13,9 @@ Sample of Google Map Place tracker.
  <td>
 <div>
 2. Select a Google account
-
 <img align="left" src="https://github.com/aungtuntun/MyJobTracker/blob/master/screenshots/2.choose%20account.png"  /></a>
 </div>
+</td>
 <td>
 <div>
 3. Available Job List
